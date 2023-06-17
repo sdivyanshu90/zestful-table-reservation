@@ -48,21 +48,21 @@ export default function Footer() {
           <h1 className="footer-header">Connect</h1>
           <ul className="footer-links">
             <a
-              href="https://www.facebook.com/"
+              href="https://www.facebook.com/Meta"
               target="_blank"
               rel="noreferrer"
             >
               Facebook
             </a>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/meta/"
               target="_blank"
               rel="noreferrer"
             >
               Instagram
             </a>
             <a
-              href="https://www.youtube.com/"
+              href="https://www.youtube.com/meta"
               target="_blank"
               rel="noreferrer"
             >
