@@ -240,8 +240,8 @@ Link:link {
 }
 
 .testimonial-card > img {
-  width: 3rem;
-  height: 3rem;
+  width: 5rem;
+  height: 4rem;
   object-fit: contain;
 }
 
@@ -307,7 +307,7 @@ footer > menu {
 }
 
 .footer-header {
-  margin-bottom: -1.25rem;
+  margin-bottom: -0.25rem;
 }
 
 .footer-links {
@@ -321,7 +321,7 @@ footer > menu {
   text-align: left;
   display: block;
   color: white;
-  padding-top: 0.2rem;
+  padding-top: 1.2rem;
   font-family: "Karla", "Sans Serif";
 }
 
@@ -360,7 +360,7 @@ footer > menu {
 
 .header-reserve {
   width: 100vw; /* width of container */
-  height: 20rem; /* height of container */
+  height: 40rem; /* height of container */
   object-fit: cover;
 }
 

@@ -1,4 +1,4 @@
-import Star from '../../../../assets/star.png';
+import Star from '../../../../assets/star3.png';
 
 export default function TestimonialCard(props) {
     return (
